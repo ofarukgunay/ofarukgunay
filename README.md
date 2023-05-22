@@ -3,6 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 - 🎓 I am studying Burdur Mehmet Akif Ersoy University Computer Engineering department.
+- 🎮 I am interested in the fields of 2D,3D game development and level design.
 - 📧 You can reach me on [ofarukgny@gmail.com](mailto:ofarukgny@gmail.com) <br>
 
 <h4 align="center">You could contact me using those links.</h4>
