@@ -8,7 +8,7 @@
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
 <a href="https://linkedin.com/in/ofarukgunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ofarukgunay" height="30" width="40" /></a>
-<a href="https://www.instagram.com/omerr_gny/" target="blank"><img align="center" src="https://pbs.twimg.com/media/DTnLyJ9X4AM0sb5?format=jpg&name=4096x4096" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omerr_gny/" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/575-5758411_twitter-circle-logo-png-instagram-transparent-png.png" height="30" width="40" /></a>
 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">
