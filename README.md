@@ -9,7 +9,7 @@
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
 <a href="https://linkedin.com/in/ofarukgunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ofarukgunay" height="30" width="40" /></a>
-<a href="https://www.instagram.com/omerr_gny/" target="blank"><img align="center" src="https://www.google.com/imgres?q=instagram%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FInstagram_logo_2022.svg%2F2048px-Instagram_logo_2022.svg.png&imgrefurl=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AInstagram_logo_2022.svg&docid=9yt6pbTK5NLclM&tbnid=TDQ1JE4rTa97lM&vet=12ahUKEwiojZ6j0cOFAxWvRfEDHUIWDbwQM3oECBsQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiojZ6j0cOFAxWvRfEDHUIWDbwQM3oECBsQAA" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omerr_gny/" target="blank"><img align="center" src="https://www.google.com/imgres?q=icon%20svg%20instagram%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FInstagram_logo_2016.svg%2F2048px-Instagram_logo_2016.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&docid=9bnaJkFlR-koEM&tbnid=YRBTEJWs58dBaM&vet=12ahUKEwiw_67y0cOFAxWdQPEDHajUCyAQM3oECBoQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiw_67y0cOFAxWdQPEDHajUCyAQM3oECBoQAA" height="30" width="40" /></a>
 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">
