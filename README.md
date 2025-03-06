@@ -40,14 +40,14 @@
 <details>
   <summary>Click to expand GitHub Profile Stats 💻</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" />
   </p>
 </details>
 
 <details>
   <summary>Click to expand Most Used Languages 📊</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" />
   </p>
 </details>
 
