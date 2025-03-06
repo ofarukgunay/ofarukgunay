@@ -28,3 +28,9 @@
   </tr>
 </table>
 
+## Github stats 📊
+
+### Profile Views 👀
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green&style=flat-square)
+
