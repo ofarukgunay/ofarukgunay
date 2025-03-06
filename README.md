@@ -32,5 +32,5 @@
 
 ### Profile Views 👀
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ofarukgunay&color=green&style=flat-square)
 
