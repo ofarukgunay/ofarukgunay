@@ -6,10 +6,18 @@
 - 🎮 I am interested in the fields of 2D,3D game development and level design.
 - 📧 You can reach me on [ofarukgny@gmail.com](mailto:ofarukgny@gmail.com) <br>
 
-<h4 align="center">You could contact me using those links.</h4>
+## Connect with Me 📱
+
 <p align="center">
-<a href="https://linkedin.com/in/ofarukgunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ofarukgunay" height="30" width="40" /></a>
-<a href="https://www.instagram.com/omerr_gny/" target="blank"><img align="center" src="https://www.google.com/imgres?q=icon%20svg%20instagram%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FInstagram_logo_2016.svg%2F2048px-Instagram_logo_2016.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&docid=9bnaJkFlR-koEM&tbnid=YRBTEJWs58dBaM&vet=12ahUKEwiw_67y0cOFAxWdQPEDHajUCyAQM3oECBoQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiw_67y0cOFAxWdQPEDHajUCyAQM3oECBoQAA" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
 
 # My favorite tools and technologies ⚙️
 
