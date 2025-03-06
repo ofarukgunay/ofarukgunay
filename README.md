@@ -37,13 +37,19 @@
 
 ## Github stats 📊
 
-### GitHub Profile Stats 💻
+<details>
+  <summary>Click to expand GitHub Profile Stats 💻</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  </p>
+</details>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical)
-
-### Most Used Languages 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical)
+<details>
+  <summary>Click to expand Most Used Languages 📊</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  </p>
+</details>
 
 ### Profile Views 👀
 
