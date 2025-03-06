@@ -30,6 +30,14 @@
 
 ## Github stats 📊
 
+### GitHub Profile Stats 💻
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### Most Used Languages 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
 ### Profile Views 👀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ofarukgunay&color=green&style=flat-square)
