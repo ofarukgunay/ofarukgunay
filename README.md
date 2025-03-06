@@ -28,8 +28,3 @@
   </tr>
 </table>
 
-## Github stats 📊
-
-- 📟 **[GitHub Profile Stats](https://github.com/anuraghazra/github-readme-stats)**
-- 📈 **[Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)**
-- 👀 **Profile Views**
