@@ -63,26 +63,6 @@
   </p>
 </details>
 
-<details>
-  <summary>Most Used Languages 📊</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" />
-  </p>
-</details>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 ### Profile Views 👀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ofarukgunay&color=green&style=flat-square)
