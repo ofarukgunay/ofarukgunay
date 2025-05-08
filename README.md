@@ -58,6 +58,9 @@
         <td>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" />
         </td>
+        <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofarukgunay&theme=radical" alt="GitHub Streak" />
+        </td>
       </tr>
     </table>
   </p>
