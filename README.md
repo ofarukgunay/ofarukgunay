@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/username/repo/main/assets/python-animated.gif" width="50"><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"><br>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><br>Javascript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"><br>Github</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"><br>Git</td>
