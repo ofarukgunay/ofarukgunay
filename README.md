@@ -2,7 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 > About Me!
-
 - 🎓 I'm a Computer Engineering student at Mehmet Akif Ersoy University, expected to graduate in 2027.
 - 🧠 My main areas of interest are Artificial Intelligence, Embedded Systems, and Robotics.
 - 🤖 I work on autonomous vehicle projects using Raspberry Pi, Pixhawk, and sensor fusion techniques.
