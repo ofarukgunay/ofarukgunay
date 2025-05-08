@@ -2,9 +2,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-- 🎓 I am studying Burdur Mehmet Akif Ersoy University Computer Engineering department.
-- 🎮 I am interested in the fields of 2D,3D game development and level design.
-- 📧 You can reach me on [ofarukgny@gmail.com](mailto:ofarukgny@gmail.com) <br>
+- 🎓 I'm a Computer Engineering student at Mehmet Akif Ersoy University, expected to graduate in 2027.
+- 🧠 My main areas of interest are Artificial Intelligence, Embedded Systems, and Robotics.
+- 🤖 I work on autonomous vehicle projects using Raspberry Pi, Pixhawk, and sensor fusion techniques.
+- 📷 I develop computer vision systems using YOLOv8, OpenCV, and AI cameras for real-time object detection.
+- 🛠️ I use ROS 2 and Gazebo Harmonic to simulate and test robotic systems in underwater environments.
+- 📱 I'm also experienced in mobile app development using Swift and UIKit for iOS.
+- 💻 I enjoy working with Python, C++, and FastAPI to build scalable backend systems.
+- 🔍 I’m always learning new technologies and contributing to open-source projects.
 
 ## Connect with Me 📱
 
@@ -14,6 +19,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ofarukgunay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:o.farukgny@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
