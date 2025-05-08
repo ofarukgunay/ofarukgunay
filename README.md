@@ -50,7 +50,16 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" />
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" />
+        </td>
+      </tr>
+    </table>
   </p>
 </details>
 
