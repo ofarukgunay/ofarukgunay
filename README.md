@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Ömer Faruk</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 > About Me!
 
 - 🎓 I'm a Computer Engineering student at Mehmet Akif Ersoy University, expected to graduate in 2027.
@@ -38,8 +37,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><br>Javascript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"><br>Github</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"><br>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"><br>CSS</td>
+    <td align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="50"><br>C++</td>
+    <td align="center"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" width="50"><br>FastAPI</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"><br>C#</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50"><br>Unity</td>
   </tr>
