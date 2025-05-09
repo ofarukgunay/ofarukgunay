@@ -66,6 +66,16 @@
   </p>
 </details>
 
+<details>
+  <summary>GitHub Thropies 🏆</summary>
+  
+  <br/>
+  
+  <p align="center">
+   ![Trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=radical)
+  </p>
+</details>
+
 ### Profile Views 👀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ofarukgunay&color=green&style=flat-square)
