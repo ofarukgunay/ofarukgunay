@@ -71,9 +71,8 @@
   
   <br/>
   
-  <p align="center">
-   ![Trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=radical)
-  </p>
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=radical)
+  
 </details>
 
 ### Profile Views 👀
