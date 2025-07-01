@@ -59,12 +59,15 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" />
         </td>
         <td>
-          <img src="https://streak-stats.demolab.com/?user=ofarukgunay&theme=radical&date_format=M%20j%5B%2C%20Y%5D&v=3" alt="GitHub Streak" />
+          <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=ofarukgunay&theme=dark&hide_border=true&border_radius=3.5&card_width=400&card_height=170" alt="GitHub Streak" />
+          </a>
         </td>
       </tr>
     </table>
   </p>
 </details>
+
 
 
 <details>
