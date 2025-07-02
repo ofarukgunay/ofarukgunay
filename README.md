@@ -45,18 +45,18 @@
   </tr>
 </table>
 
-## Github stats 📊
+## 📊 GitHub Profile Stats
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>View GitHub Stats and Top Languages</summary>
   <p align="center">
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="500"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="400"/>
         </td>
       </tr>
     </table>
@@ -64,7 +64,32 @@
 </details>
 
 
+<details>
+  <summary>View GitHub Streak 🔥</summary>
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-streak-stats-eight.vercel.app?user=ofarukgunay&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="400"/>
+        </td>
+      </tr>
+    </table>
+  </p>
+</details>
 
+
+<details>
+  <summary>View Contribution Graph</summary>
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ofarukgunay&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="400"/>
+        </td>
+      </tr>
+    </table>
+  </p>
+</details>
 
 <details>
   <summary>GitHub Thropies 🏆</summary>
