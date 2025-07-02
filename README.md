@@ -53,13 +53,10 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="170"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="400" height="170"/>
-        </td>
-        <td>
-          <img src="https://github-readme-streak-stats-sable-seven.vercel.app/?user=ofarukgunay&theme=highcontrast&hide_border=true&border_radius=3.5&card_width=400&card_height=170" alt="GitHub Streak" width="400" height="170"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="500"/>
         </td>
       </tr>
     </table>
