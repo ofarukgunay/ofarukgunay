@@ -53,10 +53,10 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="350"/>
         </td>
       </tr>
     </table>
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-  <summary>GitHub Thropies 🏆</summary>
+  <summary>View GitHub Thropies 🏆</summary>
   
   <br/>
   
