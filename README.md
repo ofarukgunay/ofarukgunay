@@ -9,7 +9,6 @@
 - 🤖 I work on autonomous vehicle projects using Raspberry Pi, Pixhawk, and sensor fusion techniques.
 - 📷 I develop computer vision systems using YOLOv8, OpenCV, and AI cameras for real-time object detection.
 - 🛠️ I use ROS 2 and Gazebo Harmonic to simulate and test robotic systems in underwater environments.
-- 📱 I'm also experienced in mobile app development using Swift and UIKit for iOS.
 - 💻 I enjoy working with Python, C++, and FastAPI to build scalable backend systems.
 - 🔍 I’m always learning new technologies and contributing to open-source projects.
 
