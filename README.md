@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Ömer Faruk</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 > About Me!
+
 - 🎓 I'm a Computer Engineering student at Mehmet Akif Ersoy University, expected to graduate in 2027.
 - 🧠 My main areas of interest are Artificial Intelligence, Embedded Systems, and Robotics.
 - 🤖 I work on autonomous vehicle projects using Raspberry Pi, Pixhawk, and sensor fusion techniques.
@@ -20,15 +22,17 @@
   <a href="https://www.linkedin.com/in/ofarukgunay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://medium.com/@omerfarukgunay" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
   <a href="mailto:o.farukgny@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-
 # My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in  
+> Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
@@ -63,7 +67,6 @@
   </p>
 </details>
 
-
 <details>
   <summary>View GitHub Streak 🔥</summary>
   <p align="center">
@@ -76,7 +79,6 @@
     </table>
   </p>
 </details>
-
 
 <details>
   <summary>View Contribution Graph</summary>
@@ -103,4 +105,3 @@
 ### Profile Views 👀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ofarukgunay&color=green&style=flat-square)
-
