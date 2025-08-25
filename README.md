@@ -97,7 +97,7 @@
   
   <br/>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=monokai)]
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 ### Profile Views 👀
