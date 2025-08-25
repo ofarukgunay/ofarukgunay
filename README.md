@@ -97,7 +97,7 @@
   
   <br/>
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=radical)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
