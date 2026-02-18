@@ -16,25 +16,25 @@
 
 <p align="center">
   <a href="https://omerfarukgunay.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Portfolio-2db7f5?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
   <a href="CV/CV Ömer Faruk Günay Tr.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV_TR-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV TR">
+    <img src="https://img.shields.io/badge/CV_TR-ff6b6b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV TR">
   </a>
   <a href="CV/CV Ömer Faruk Günay EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV_EN-0000FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN">
+    <img src="https://img.shields.io/badge/CV_EN-4facfe?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN">
   </a>
   <a href="https://www.instagram.com/omerr_gny" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-f06292?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/ofarukgunay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-42a5f5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@omerfarukgunay" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-424242?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="mailto:o.farukgny@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ef5350?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 ## 📊 GitHub Profile Stats
 
 <details>
-  <summary>### 🔹 GitHub Stats & Top Languages</summary>
+  <summary><b>🔹 GitHub Stats & Top Languages</b></summary>
   <p align="center">
     <a href="https://github.com/ofarukgunay">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
@@ -71,10 +71,8 @@
   </p>
 </details>
 
----
-
 <details>
-  <summary>### 🔹 GitHub Streak</summary>
+  <summary><b>🔹 GitHub Streak</b></summary>
   <p align="center">
     <a href="https://github.com/ofarukgunay">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ofarukgunay&theme=radical" alt="streak"/>
@@ -84,7 +82,7 @@
 
 
 <details>
-  <summary>### 🔹 GitHub Trophies</summary>
+  <summary><b>🔹 GitHub Trophies</b></summary>
   <p align="center">
     <a href="https://github.com/ofarukgunay">
       <img src="https://github-trophies.vercel.app/?username=ofarukgunay&theme=radical&row=1&column=7&margin-w=10&margin-h=10" alt="trophies"/>
@@ -92,7 +90,6 @@
   </p>
 </details>
 
----
 
 ## 🐍 GitHub Snake Game
 <p align="center">
