@@ -25,10 +25,10 @@
     <img src="https://img.shields.io/badge/CV_EN-0984e3?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV EN">
   </a>
   <a href="https://www.instagram.com/omerr_gny" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-e17055?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="icons/ig_icon.png" alt="Instagram" height="28">
   </a>
   <a href="https://www.linkedin.com/in/ofarukgunay" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-00acee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="icons/li_icon.png" alt="LinkedIn" height="28">
   </a>
   <a href="https://medium.com/@omerfarukgunay" target="blank">
     <img src="https://img.shields.io/badge/Medium-2d3436?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
