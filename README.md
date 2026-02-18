@@ -52,10 +52,10 @@
 
 ### 🔹 GitHub Stats & Top Languages
 <p align="center">
-  <a href="https://github.com/Ramazan-yildirim">
+  <a href="https://github.com/ofarukgunay">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramazan-yildirim&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
   </a>
-  <a href="https://github.com/Ramazan-yildirim">
+  <a href="https://github.com/ofarukgunay">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramazan-yildirim&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165"/>
   </a>
 </p>
@@ -64,7 +64,7 @@
 
 ### 🔹 GitHub Streak
 <p align="center">
-  <a href="https://github.com/Ramazan-yildirim">
+  <a href="https://github.com/ofarukgunay">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ramazan-yildirim&theme=radical" alt="streak"/>
   </a>
 </p>
@@ -72,7 +72,7 @@
 
 ### 🔹 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/Ramazan-yildirim">
+  <a href="https://github.com/ofarukgunay">
     <img src="https://github-trophies.vercel.app/?username=Ramazan-yildirim&theme=radical&row=1&column=7&margin-w=10&margin-h=10" alt="trophies"/>
   </a>
 </p>
