@@ -50,55 +50,39 @@
 
 ## 📊 GitHub Profile Stats
 
-<details>
-  <summary>View GitHub Stats and Top Languages</summary>
-  <p align="center">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=ofarukgunay&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofarukgunay&layout=compact&theme=radical" alt="Top Languages" width="350"/>
-        </td>
-      </tr>
-    </table>
-  </p>
-</details>
+### 🔹 GitHub Stats & Top Languages
+<p align="center">
+  <a href="https://github.com/Ramazan-yildirim">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramazan-yildirim&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/Ramazan-yildirim">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramazan-yildirim&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165"/>
+  </a>
+</p>
 
-<details>
-  <summary>View GitHub Streak 🔥</summary>
-  <p align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://github-readme-streak-stats-eight.vercel.app?user=ofarukgunay&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="400"/>
-        </td>
-      </tr>
-    </table>
-  </p>
-</details>
+---
 
-<details>
-  <summary>View Contribution Graph</summary>
-  <p align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ofarukgunay&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="400"/>
-        </td>
-      </tr>
-    </table>
-  </p>
-</details>
+### 🔹 GitHub Streak
+<p align="center">
+  <a href="https://github.com/Ramazan-yildirim">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ramazan-yildirim&theme=radical" alt="streak"/>
+  </a>
+</p>
 
-<details>
-  <summary>View GitHub Thropies 🏆</summary>
-  
-  <br/>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ofarukgunay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+
+### 🔹 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/Ramazan-yildirim">
+    <img src="https://github-trophies.vercel.app/?username=Ramazan-yildirim&theme=radical&row=1&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</p>
+
+---
+
+## 🐍 GitHub Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ### Profile Views 👀
 
