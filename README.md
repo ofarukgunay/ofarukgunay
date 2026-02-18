@@ -16,25 +16,25 @@
 
 <p align="center">
   <a href="https://omerfarukgunay.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2db7f5?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Portfolio-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   <a href="CV/CV Ömer Faruk Günay Tr.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV_TR-ff6b6b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV TR">
+    <img src="https://img.shields.io/badge/CV_TR-00b894?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV TR">
   </a>
   <a href="CV/CV Ömer Faruk Günay EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV_EN-4facfe?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN">
+    <img src="https://img.shields.io/badge/CV_EN-0984e3?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV EN">
   </a>
   <a href="https://www.instagram.com/omerr_gny" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-f06292?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-e17055?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/ofarukgunay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-42a5f5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-00acee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@omerfarukgunay" target="blank">
-    <img src="https://img.shields.io/badge/Medium-424242?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-2d3436?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="mailto:o.farukgny@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ef5350?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-d63031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
