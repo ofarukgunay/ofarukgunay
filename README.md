@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Medium-2d3436?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="mailto:o.farukgny@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-d63031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="icons/email_icon.png" alt="Email" height="28">
   </a>
 </p>
 
