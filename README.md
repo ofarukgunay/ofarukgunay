@@ -75,7 +75,7 @@
   <summary><b>🔹 GitHub Streak</b></summary>
   <p align="center">
     <a href="https://github.com/ofarukgunay">
-      <img src="https://streak-stats.demolab.com/?user=ofarukgunay&theme=radical" alt="streak"/>
+      <img src="https://streak-stats.demolab.com?user=ofarukgunay&theme=gruvbox-duo" alt="streak"/>
     </a>
   </p>
 </details>
