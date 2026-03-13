@@ -75,8 +75,10 @@
   <summary><b>🔹 GitHub Streak</b></summary>
   <p align="center">
     <a href="https://github.com/ofarukgunay">
-      <img src="https://streak-stats.demolab.com?user=ofarukgunay&theme=gruvbox-duo" alt="streak"/>
+      <img src="https://streak-stats.demolab.com?user=ofarukgunay&theme=gruvbox-duo&hide_total_contributions=true" alt="streak"/>
     </a>
+    <br/>
+    <img src="https://img.shields.io/badge/Total%20Contributions%20(2022--2026)-621-2ea44f?style=for-the-badge" alt="Total Contributions"/>
   </p>
 </details>
 
