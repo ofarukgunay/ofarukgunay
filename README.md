@@ -74,11 +74,9 @@
 <details>
   <summary><b>🔹 GitHub Streak</b></summary>
   <p align="center">
-    <a href="https://github.com/ofarukgunay">
-      <img src="https://streak-stats.demolab.com?user=ofarukgunay&theme=gruvbox-duo&hide_total_contributions=true" alt="streak"/>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofarukgunay&theme=dark" alt="GitHub Streak"/>
     </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Total%20Contributions%20(2022--2026)-621-2ea44f?style=for-the-badge" alt="Total Contributions"/>
   </p>
 </details>
 
