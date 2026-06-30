@@ -1,0 +1,87 @@
+% ============================================================
+%  CV — Türkçe Versiyon
+%  Ömer Faruk Günay
+% ============================================================
+
+\documentclass[10pt, a4paper]{article}
+
+% --- Packages ---
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[turkish]{babel}
+\usepackage[margin=1.5cm, top=1.2cm, bottom=1.2cm]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{multicol}
+\usepackage{fontawesome5}
+\usepackage{lmodern}
+
+% --- Colors ---
+\definecolor{accent}{HTML}{2D3436}
+\definecolor{highlight}{HTML}{0984E3}
+\definecolor{lightgray}{HTML}{636E72}
+
+% --- Hyperlink styling ---
+\hypersetup{
+  colorlinks=true,
+  urlcolor=highlight,
+  hidelinks
+}
+
+% --- Section styling ---
+\titleformat{\section}
+  {\large\bfseries\color{accent}}
+  {}{0em}{}
+  [\vspace{-0.4em}\rule{\linewidth}{0.6pt}\vspace{0.2em}]
+
+\titlespacing{\section}{0pt}{0.8em}{0.4em}
+
+% --- No page numbers ---
+\pagestyle{empty}
+
+% --- Metadata ---
+\input{metadata}
+
+% ============================================================
+\begin{document}
+% ============================================================
+
+% --- HEADER ---
+\begin{center}
+  {\Huge\bfseries\color{accent} \cvName} \\[4pt]
+  {\large\color{lightgray} \cvTitleTR} \\[6pt]
+  \small
+  \faEnvelope~\href{mailto:\cvEmail}{\cvEmail} \quad
+  \faPhone~\cvPhone \quad
+  \faMapMarker*~\cvLocation \\[2pt]
+  \faGlobe~\href{https://\cvWebsite}{\cvWebsite} \quad
+  \faLinkedin~\href{https://\cvLinkedIn}{\cvLinkedIn} \quad
+  \faGithub~\href{https://\cvGitHub}{\cvGitHub}
+\end{center}
+
+\vspace{0.5em}
+
+% --- HAKKIMDA ---
+\input{sections/tr/about}
+
+% --- DENEYİM ---
+\input{sections/tr/experience}
+
+% --- EĞİTİM ---
+\input{sections/tr/education}
+
+% --- BECERİLER ---
+\input{sections/tr/skills}
+
+% --- PROJELER ---
+\input{sections/tr/projects}
+
+% --- EKTRAKÜRİKÜLER ---
+\input{sections/tr/extracurricular}
+
+% ============================================================
+\end{document}
+% ============================================================

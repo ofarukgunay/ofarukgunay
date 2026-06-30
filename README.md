@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Ömer Faruk</h1>
+<h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ofarukgunay&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
@@ -10,7 +10,7 @@
 - 📷 I develop computer vision systems using YOLOv8, OpenCV, and AI cameras for real-time object detection.
 - 🛠️ I use ROS 2 and Gazebo Harmonic to simulate and test robotic systems in underwater environments.
 - 💻 I enjoy working with Python, C++, and FastAPI to build scalable backend systems.
-- 🔍 I’m always learning new technologies and contributing to open-source projects.
+- 🔍 I'm always learning new technologies and contributing to open-source projects.
 
 ## Connect with Me 📱
 
@@ -27,16 +27,38 @@
   <a href="https://omerfarukgunay.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  <a href="CV/CV Ömer Faruk Günay Tr.pdf" target="_blank">
+  <a href="CV/output/Omer_Faruk_Gunay_CV_TR.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV_TR-00b894?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV TR">
   </a>
-  <a href="CV/CV Ömer Faruk Günay EN.pdf" target="_blank">
+  <a href="CV/output/Omer_Faruk_Gunay_CV_EN.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV_EN-0984e3?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV EN">
   </a>
   <a href="https://medium.com/@omerfarukgunay" target="blank">
     <img src="https://img.shields.io/badge/Medium-2d3436?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
+
+---
+
+## 📄 CV Downloads
+
+| Document | Language | Download |
+| :--- | :--- | :--- |
+| **CV** | English | [📥 Download (PDF)](CV/output/Omer_Faruk_Gunay_CV_EN.pdf) |
+| **CV** | Türkçe | [📥 İndir (PDF)](CV/output/Omer_Faruk_Gunay_CV_TR.pdf) |
+
+## 👁️ CV Previews
+
+<details open>
+<summary><h3>CV Preview / CV Önizlemesi</h3></summary>
+<br>
+<div align="center">
+  <img src="CV/output/cv_en_preview.png" width="45%" alt="English CV">
+  <img src="CV/output/cv_tr_preview.png" width="45%" alt="Türkçe CV">
+</div>
+</details>
+
+---
 
 # My favorite tools and technologies ⚙️
 
